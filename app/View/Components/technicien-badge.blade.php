@@ -1,0 +1,3 @@
+<span class="badge bg-secondary me-1 mb-1">
+    👨‍🔧 {{ $prenom }} {{ $nom }}
+</span>
